@@ -1,0 +1,76 @@
+/* .text {
+    font-size: 30px;
+    font-weight: 700;
+    font-style: italic;
+    text-decoration: line-through;
+    text-indent: 40px;
+    line-height: 40px;
+    font-family: 'Roboto Slab', sans-serif;
+} */
+
+body {
+    min-height: 100vh;
+    background-image: url("https://images.pexels.com/photos/3689772/pexels-photo-3689772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* .box {
+  height: 500px;
+  width: 1000px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+} */
+
+/* .main-text {
+    color: orange;
+}
+
+.i {
+    color: green;
+}
+
+.t {
+    color: rgba(1, 1, 1, 0.5);
+    color: #000000;
+}
+
+.box {
+    background-color: orangered;
+    width: 200px;
+    height: 200px;
+    
+} */
+
+/* .text {
+    font-size: 24px;
+    color:green;
+}
+
+.color-green {
+    color: red;
+    border: 2px solid black;
+} */
+
+/* .title a {
+    color: blue;
+}
+
+.title a:hover {
+    color: orange;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+.text .warn {
+    font-size: 36px;
+}
+
+:hover {
+    color: green;
+} */
