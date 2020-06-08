@@ -1,3 +1,93 @@
+body {
+    font-family: 'Roboto', 'Arial', sans-serif;
+    color: rgb(114, 105, 105);
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.page-header {
+    background-color: rgba(230, 0,0, 0.8);
+}
+
+.site-navigation {
+    font-size: 13px;
+    list-style: none;
+}
+.site-navigation a {
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    line-height: 16px;
+}
+.site-navigation a:hover,
+.site-navigation a:focus {
+    color: rgb(32, 26, 26);
+}
+
+.first-section-list {
+    list-style: none;
+}
+
+.first-section-list-item h3 {
+    color: rgb(32, 26, 26);
+    line-height: 17px;
+}
+
+.culture-list {
+    list-style: none;
+}
+
+.culture-list-name {
+    font-size: 22px;
+    line-height: 26px;
+    color: rgb(32, 26, 26);
+}
+
+.page-footer {
+    color: rgb(255, 255, 255);
+    background-color: rgba(230, 0,0, 0.8);
+}
+
+.footer-socials-list {
+    list-style: none;
+}
+
+.footer-socials-name {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+/* .footer-socials-list a {
+    text-decoration: none;
+} */
+
+.visually-hidden:not(:focus):not(:active),
+input[type="checkbox"].visually-hidden,
+input[type="radio"].visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
 /* .text {
     font-size: 30px;
     font-weight: 700;
@@ -8,13 +98,13 @@
     font-family: 'Roboto Slab', sans-serif;
 } */
 
-body {
+/* body {
     min-height: 100vh;
     background-image: url("https://images.pexels.com/photos/3689772/pexels-photo-3689772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-}
+} */
 
 /* .box {
   height: 500px;
